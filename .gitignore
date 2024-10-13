@@ -1,0 +1,5 @@
+# nix build result
+/result
+
+# image config.system.build.vm generates
+/*.qcow2
